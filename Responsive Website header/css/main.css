@@ -1,0 +1,15 @@
+@import url(global.css);
+
+.main{
+    background-color: var(--color-white);
+    padding: 2em;
+}
+.main__secondary-title{
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+.main__content{
+    color: var(--color-black);
+    font-size: 1.3em;
+}
